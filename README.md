@@ -32,6 +32,11 @@
 
 ### 📈 GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gautamkumarcode&theme=radical&hide_border=false" />
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamkumarcode&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarcode&layout=compact&theme=radical" />
@@ -65,11 +70,7 @@
 </p>
 
 ---
-### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gautamkumarcode&theme=radical&hide_border=false" />
-</p>
 
 ---
 
